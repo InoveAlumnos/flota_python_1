@@ -10,8 +10,8 @@ El objetivo es analizar la información de los viajes realizados.
 
 # Entrada del sistema
 El programa recibe un archivo “csv” en donde se encuentra la información de distintos viajes de nuestra flota, cada fila del archivo corresponde un viaje con al menos la siguiente información:
-- Identificador del vehículo
 - Día, mes, año del viaje efectuado
+- Identificador del vehículo
 - ¿Cuánto tiempo el vehículo tardó en llegar a destino (tiempo circulando)? [Valor en minutos].
 - ¿Cuánto recaudó por ese viaje?
 - [Opcional] Agregar posición (latitud y longitud) del inicio y final del recorrido para futuras funcionalidades.
